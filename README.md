@@ -1,3 +1,2 @@
 # Ramas-main
-Este es un cambio en la rama1.1.
-este es un cambio rama1.2
+Este es un cambio en la rama1.1. este es un cambio rama1.2
