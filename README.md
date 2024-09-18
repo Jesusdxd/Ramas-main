@@ -2,10 +2,17 @@
 
 ## Cambios en rama2
 
-En esta rama, se han implementado las siguientes actualizaciones:
+El calor de los sentimientos sí se transmite.
 
-- Se ha añadido una nueva funcionalidad X.
-- Se han corregido errores en la funcionalidad Y.
-- Se ha mejorado la documentación de la funcionalidad Z.
+### Palabras y Frases Cute en Japonés
 
-Estas actualizaciones aseguran un mejor rendimiento y estabilidad del sistema.
+- **可愛い** (Kawaii) - Adorable, lindo
+- **愛** (Ai) - Amor
+- **幸せ** (Shiawase) - Felicidad
+- **楽しい** (Tanoshii) - Divertido
+- **夢** (Yume) - Sueño
+- **微笑み** (Hohoemi) - Sonrisa
+
+**"幸せはここにある"** (Shiawase wa koko ni aru) - La felicidad está aquí.
+
+**"あなたは私の大切な人です"** (Anata wa watashi no taisetsu na hito desu) - Eres una persona importante para mí.
